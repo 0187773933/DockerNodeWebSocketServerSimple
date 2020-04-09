@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo docker build -t trouble-game-server .
+sudo docker build -t node-websocket-server-simple .
